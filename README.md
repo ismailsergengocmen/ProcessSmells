@@ -1,5 +1,5 @@
 # Replication Package
-This package contains resources used in "Enhanced Code Reviews Using Pull Request Based Change Impact Analysis".
+This package contains resources used in "Process Smells In Practice: An Evaluative Case Study".
 
 ## Contents 
 | Content  | Location |
